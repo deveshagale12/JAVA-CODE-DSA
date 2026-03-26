@@ -21,6 +21,7 @@ public class MOVEZEROSATEND {
 			}
 		
 		}
+		//add remaining zeros in an arrays
 		while(count < n) {
 		    arr[count++] = 0; // This fills all remaining spots
 		}
